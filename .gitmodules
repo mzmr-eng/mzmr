@@ -1,3 +1,6 @@
 [submodule "proto"]
 	path = proto
 	url = ../proto.git
+[submodule "proto-rust"]
+	path = proto-rust
+	url = ../proto-rust.git
