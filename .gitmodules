@@ -4,3 +4,6 @@
 [submodule "proto-rust"]
 	path = proto-rust
 	url = ../proto-rust.git
+[submodule "eyes"]
+	path = eyes
+	url = ../eyes.git
